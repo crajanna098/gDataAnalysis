@@ -56,6 +56,7 @@ customers to this segment
 
 
 **Analysis and Results**
+
 RFM analysis assigns a score of 1-4 for R, F and M attributes of customers, with 1 being the least
 desirable and 4 being the most desirable. Using the RFM scores, customer shopping behavior can
 be inferred and marketing recommendations are suggested for different combinations of R, F and
@@ -64,6 +65,7 @@ M values as seen in Table below.
 <img width="600" height="279" alt="RFM segments table" src="https://github.com/user-attachments/assets/9e4e14e6-61d2-4566-ab64-6997c086bde9" />
 
 **Conclusions**
+
 The online retail store data was used and extensively analyzed using RFM analysis. 
 An unsupervised learning classification algorithm called K-Means was also used to create four customer segments. It was seen that the customer segmentation created by K-Means was of high quality in the sense that it created four distinct categories with clearly distinct shopping behaviors. The segments are fairly sized (between 20-30% of total customers each) making each of the segments significant. It would be very time consuming to come up with these customer segments manually using RFM analysis. The customer segments were further analyzed and
 marketing strategies were developed for each category.
