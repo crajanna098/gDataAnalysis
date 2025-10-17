@@ -9,15 +9,18 @@ each with about 20-30% of the total number of customers were identified with dis
 behavior and marketing needs.
 
 **Solution Methodology:** 
+
 The analysis approach followed to create customer segments using the online shopping data is
 summarized in the flow chart below.
 <img width="481" height="558" alt="Customer segmentation method image" src="https://github.com/user-attachments/assets/962a43ab-512f-4f5d-92bf-2954c4d3bf47" />
 
 **Customer Segmentation using unsupervised learning**
+
 Among the various algorithms considered here, K-Means clustering was chosen as it was the best suited for the available dataset
 since it is simple, fast and works well of large datasets.
 
 Visualization of clustering:
+
 A 3D plot was generated with data points for each customer using R, F, M values on the axes.
 As seen in the plot the clusters are color coded and show a clear distinction in 3D space. The
 centroids of clusters formed by K-Means are also shows in the plot as black dots
