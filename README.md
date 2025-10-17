@@ -23,10 +23,10 @@ since it is simple, fast and works well of large datasets.
 Visualization of clustering:
 
 A 3D plot was generated with data points for each customer using R, F, M values on the axes.
-As seen in the plot the clusters are color coded and show a clear distinction in 3D space. The
-centroids of clusters formed by K-Means are also shows in the plot as black dots
+As seen in the plot, the clusters are color-coded and show a clear distinction in 3D space. The centroids of clusters formed by K-Means are shown in the plot as black dots.
 
 <img width="587" height="556" alt="3D Viz of customer segments" src="https://github.com/user-attachments/assets/93022fd2-6f52-422a-9ea6-06944f5196f3" />
+
 
 This gives valuable insights into the shopping behavior of the customers in each cluster:
 
